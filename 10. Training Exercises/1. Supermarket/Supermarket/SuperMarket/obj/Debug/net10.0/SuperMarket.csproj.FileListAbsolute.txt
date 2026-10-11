@@ -1,0 +1,14 @@
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\bin\Debug\net10.0\SuperMarket.exe
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\bin\Debug\net10.0\SuperMarket.deps.json
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\bin\Debug\net10.0\SuperMarket.runtimeconfig.json
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\bin\Debug\net10.0\SuperMarket.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\bin\Debug\net10.0\SuperMarket.pdb
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\SuperMarket.AssemblyInfoInputs.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\SuperMarket.AssemblyInfo.cs
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\SuperMarket.csproj.CoreCompileInputs.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\SuperMarket.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\refint\SuperMarket.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\SuperMarket.pdb
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\SuperMarket.genruntimeconfig.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Supermarket\SuperMarket\obj\Debug\net10.0\ref\SuperMarket.dll

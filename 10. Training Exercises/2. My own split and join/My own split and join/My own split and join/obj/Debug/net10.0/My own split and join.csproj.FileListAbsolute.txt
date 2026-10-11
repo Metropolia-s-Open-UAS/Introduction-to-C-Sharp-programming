@@ -1,0 +1,14 @@
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\bin\Debug\net10.0\My own split and join.exe
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\bin\Debug\net10.0\My own split and join.deps.json
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\bin\Debug\net10.0\My own split and join.runtimeconfig.json
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\bin\Debug\net10.0\My own split and join.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\bin\Debug\net10.0\My own split and join.pdb
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\My own split and join.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\My own split and join.AssemblyInfoInputs.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\My own split and join.AssemblyInfo.cs
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\My own split and join.csproj.CoreCompileInputs.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\My own split and join.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\refint\My own split and join.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\My own split and join.pdb
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\My own split and join.genruntimeconfig.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\My own split and join\My own split and join\obj\Debug\net10.0\ref\My own split and join.dll

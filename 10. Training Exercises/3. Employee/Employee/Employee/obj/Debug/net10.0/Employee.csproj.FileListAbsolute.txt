@@ -1,0 +1,14 @@
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\bin\Debug\net10.0\Employee.exe
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\bin\Debug\net10.0\Employee.deps.json
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\bin\Debug\net10.0\Employee.runtimeconfig.json
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\bin\Debug\net10.0\Employee.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\bin\Debug\net10.0\Employee.pdb
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\Employee.AssemblyInfoInputs.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\Employee.AssemblyInfo.cs
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\Employee.csproj.CoreCompileInputs.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\Employee.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\refint\Employee.dll
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\Employee.pdb
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\Employee.genruntimeconfig.cache
+c:\Users\abdel\OneDrive\Documents\AntiGravity Workshop\Employee\Employee\obj\Debug\net10.0\ref\Employee.dll
